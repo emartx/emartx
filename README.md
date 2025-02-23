@@ -4,7 +4,7 @@
 <!-- # I'm [Emad](http://www.EmadArmoun.com) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=em-it&label=Profile%20views&color=blueviolet&style=flat" alt="lmachens" /> </p>
 
-A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of software development from 20 years ago with a permanent thirst for learning & growth📈. Have the ability to design & develop a technically well-defined project with modern technologies and accuracy in writing technical documents. Love travel, new cultures, communication & teamwork.
+A full-stack software engineer who followed his love❤️‍🔥 of software development from 20 years ago with a permanent thirst for learning & growth📈. Have the ability to design & develop a technically well-defined project with modern technologies and accuracy in writing technical documents. Love travel, new cultures, communication & teamwork.
 
 ## 🖥️ My Sample Codes:
 <img alt="Xanbilak Logo" align="right" src="https://raw.githubusercontent.com/Em-IT/xanbilak/master/xanbilak-fe/src/assets/images/logo.png" width="10%" />
