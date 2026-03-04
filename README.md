@@ -7,6 +7,11 @@
 A full-stack software engineer who followed his love❤️‍🔥 of software development from 20 years ago with a permanent thirst for learning & growth📈. Have the ability to design & develop a technically well-defined project with modern technologies and accuracy in writing technical documents. Love travel, new cultures, communication & teamwork.
 
 ## 🖥️ My Sample Codes:
+<img alt="Bang Logo" align="right" src="https://raw.githubusercontent.com/Em-IT/xanbilak/master/xanbilak-fe/src/assets/images/logo.png" width="10%" />
+
+- [Bang File Copier](https://github.com/emartx/xanbilak)
+  - Bang File Copier is a lightweight command-line tool written in Python that scans a given directory for files whose names start with an exclamation mark (!), then copies those files into one or more predefined destination directories. During the copy process, each file is renamed by prefixing it with the source folder’s name. I use this tool for my personal photography workflow. After each shoot, I manually review the photos and mark the best ones by adding one or more exclamation marks (!) at the start of the filename. This tool then automates the next step by finding those marked files and copying them into the folders I use for retouching and publishing.
+
 <img alt="Xanbilak Logo" align="right" src="https://raw.githubusercontent.com/Em-IT/xanbilak/master/xanbilak-fe/src/assets/images/logo.png" width="10%" />
 
 - [Xanbilak](https://github.com/emartx/xanbilak)
