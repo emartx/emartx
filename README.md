@@ -12,20 +12,28 @@ A full-stack software engineer who followed his love❤️‍🔥 of software de
 - [Bang File Copier](https://github.com/emartx/xanbilak)
   - Bang File Copier is a lightweight command-line tool written in Python that scans a given directory for files whose names start with an exclamation mark (!), then copies those files into one or more predefined destination directories. During the copy process, each file is renamed by prefixing it with the source folder’s name. I use this tool for my personal photography workflow. After each shoot, I manually review the photos and mark the best ones by adding one or more exclamation marks (!) at the start of the filename. This tool then automates the next step by finding those marked files and copying them into the folders I use for retouching and publishing.
 
+<img alt="Flickr Dashboard Logo" align="right" src="https://github.com/emartx/flickr-dashboard/blob/main/packages/frontend/src/assets/img/brand/blue_logo.png?raw=true" width="13%" />
+
+- [Flickr Dashboard](https://github.com/emartx/flickr-dashboard)
+  - Flickr Dashboard is a full-stack monorepo application that helps users explore and analyze their Flickr photos through a clean, responsive interface. It combines a React + TypeScript frontend with Firebase Functions and Firestore on the backend, uses shared core types across packages, and integrates directly with the Flickr API to fetch photo metadata. The project emphasizes performance and reliability with React Query caching, concurrent API processing, retry logic, and scheduled background jobs that keep photo metrics and custom “interest rate” rankings up to date.
+
 <img alt="Xanbilak Logo" align="right" src="https://raw.githubusercontent.com/Em-IT/xanbilak/master/xanbilak-fe/src/assets/images/logo.png" width="10%" />
 
 - [Xanbilak](https://github.com/emartx/xanbilak)
   - This is a utility which helps people in shopping. All of the family members can share the shopping list as easy as working with a messenger. I developed this small app using React.js, TypeScript, TailwindCSS, Socket.io, Redux, Jest, Enzyme & ...
-- [Xanbilak Backend1](https://github.com/emartx/xanbilak-be1)
-  - The backend of Xanbilak, a utility which helps the family members to share & manage the shopping list. I implemented the backend using Rest APIs. I developed the APIs using Node.js (Express), TypeScript, PostgreSQL, Jest & ...
-- [EmIT Bot Net](https://github.com/emartx/EmITBotNet)
-  - A framework to build telegram bots. I developed this platform using C#. It's based on DFA, so you can define the Nodes & Edges of the DFA, then the Telegram Bot is there ;)
+
 - [Netherland Explorer](https://emartx.github.io/netherland-explorer/)
   - It's a sample project to apply some technologies. I developed the whole frontend using the Material-UI CSS framework. Also, I applied a search algorithm to increase the search speed, and finally, I used the virtualization technique to render only visible parts of the screen, to speed up the web application.
 - [My Calculator](https://github.com/emartx/my-calculator)
   - It is a sample calculator, just for testing some front-end libraries & frameworks, such as tailwindcss, twin macro, storybook & etc.
 - [Huge Numbers (NPM Package)](https://emartx.github.io/huge-num/)
   - It's a NPM package to work with huge numbers, means very big numbers which can not handle even with big int.
+
+- [Xanbilak Backend1](https://github.com/emartx/xanbilak-be1)
+  - The backend of Xanbilak, a utility which helps the family members to share & manage the shopping list. I implemented the backend using Rest APIs. I developed the APIs using Node.js (Express), TypeScript, PostgreSQL, Jest & ...
+- [EmIT Bot Net](https://github.com/emartx/EmITBotNet)
+  - A framework to build telegram bots. I developed this platform using C#. It's based on DFA, so you can define the Nodes & Edges of the DFA, then the Telegram Bot is there ;)
+
 <!-- - [Markdown Previewer](https://github.com/Em-IT/markdown-previewer) -->
 
 <img align="right" src="https://raw.githubusercontent.com/Em-IT/em-it.github.io/main/technologies-min.png" width="40%" />
